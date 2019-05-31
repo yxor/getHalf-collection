@@ -1,4 +1,4 @@
-"""using recursivity to find the half of an integers, only works for positives"""
+"""using recursivity to find the half of an integer, only works for positives"""
 
 # setting the recursive dream depth to an arbitrary number
 # the bigger the number the longer it will take to find the half
