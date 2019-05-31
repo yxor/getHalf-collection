@@ -1,4 +1,4 @@
-"""using recursivity to find the half of an integers, only works for positives"""
+"""using recursivity to find the half of an integer, only works for positives"""
 
 def divideBy2(n):
     half = 0
